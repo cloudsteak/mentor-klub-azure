@@ -16,6 +16,16 @@ Több hetes képzések esetén lehetőség van az oktató Azure előfizetéséhe
 
 Link: https://mentor-access-manager.azurewebsites.net
 
+**Fontos:**
+- Előforul, hogy a jóváhagyó email a levélszemét mappában köt ki. Ezt ellenőrizd.
+- A jóváhagyás elfogadására 24 órád van, ezért kérlek, rendszeresen ellenőrizd az email fiókod.
+- Állíts be erős jelszót
+- Több faktoros azonosítást is állíts be.
+- Erőforrások létrehozásánál olyan nevet használj, amely esetén be tudom azonosítnai, hogy az hozzád tartozik.
+- Ha nincs szükséged egy erőforrásra, akkor állítsd le vagy inkább töröld le.
+- Csak annyi erőforrást használj, amennyire feltétlenül szükséged van.
+- Néhány naponta ellenőrizni fogom az erőforrásokat és ha sok vagy felesleges erőforrások vannak, azokat le fogom törölni.
+
 ## Meglévő segádanyagok az Azure témájú képzésekhez
 
 ### 1. NodeJS14 alapú React demo
