@@ -1,4 +1,4 @@
-# Mentor Klub - Azure témájú képzéseihez segédletek
+# Mentor Klub segédletek - Azure témájú képzésekhez
 
 ## Technikai nehézségek bejelentése és nyomonkövetése
 
