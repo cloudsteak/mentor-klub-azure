@@ -75,3 +75,7 @@ Link: https://github.com/cloudsteak/trn-azure-commandline
 ### 7. Statikus weboldal
 
 Link: https://github.com/cloudsteak/trn-azurestaticwebsite
+
+### 8. WebApp + SQL adatbázis (NodeJS 18)
+
+Link: https://github.com/cloudsteak/trn-azure-webapp-sql
