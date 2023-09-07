@@ -79,3 +79,7 @@ Link: https://github.com/cloudsteak/trn-azurestaticwebsite
 ### 8. WebApp + SQL adatbázis (NodeJS 18)
 
 Link: https://github.com/cloudsteak/trn-azure-webapp-sql
+
+### 9. Kubernetes példa, több felhőszolgáltatóhoz
+
+Link: https://github.com/cloudsteak/trn-k8s
