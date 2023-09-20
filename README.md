@@ -83,3 +83,7 @@ Link: https://github.com/cloudsteak/trn-azure-webapp-sql
 ### 9. Kubernetes példa, több felhőszolgáltatóhoz
 
 Link: https://github.com/cloudsteak/trn-k8s
+
+### 10. ARM sablonok Azure (ARM Template)
+
+Link: https://github.com/cloudsteak/trn-azure-arm
