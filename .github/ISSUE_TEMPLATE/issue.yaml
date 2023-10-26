@@ -1,0 +1,35 @@
+name: Kérdés
+description: Általános kérdések felhővel vagy a képzéssel kapcsolatban
+title: "[Q]: "
+labels: ["question", "cloud"]
+assignees:
+  - the1bit
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Köszöszönöm, hogy írsz. Kérdezz bátran.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Miben segíthetek?
+      description: Írd le azt is, melyik képzéssel vagy felhővel kapcsolatban kérdezel.
+      placeholder: Mondd el mi történt
+      value: "Nem világos a Docker használta Azure-ban"
+    validations:
+      required: true
+  - type: dropdown
+    id: version
+    attributes:
+      label: Témakör
+      description: Melyik terület?
+      options:
+        - Általános kérdés
+        - Azure
+        - AWS
+        - Google Cloud
+        - IaC
+        - Go lang
+    validations:
+      required: true
+  
