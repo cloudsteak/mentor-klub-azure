@@ -14,8 +14,6 @@ body:
     attributes:
       label: Miben segíthetek?
       description: Írd le azt is, melyik képzéssel vagy felhővel kapcsolatban kérdezel.
-      placeholder: Mondd el mi történt
-      value: "Nem világos a Docker használta Azure-ban"
     validations:
       required: true
   - type: dropdown
