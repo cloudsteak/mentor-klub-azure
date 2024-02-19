@@ -51,6 +51,7 @@ Támogatott NodeJS verziók
 - Node 14 LTS
 - Node 16 LTS
 - Node 18 LTS
+- Node 20 LTS
 
 Link: https://github.com/cloudsteak/trn-node-demo
 
@@ -61,6 +62,7 @@ Támogatott NodeJS verziók
 - Node 14 LTS
 - Node 16 LTS
 - Node 18 LTS
+- Node 20 LTS
 
 Link: https://github.com/cloudsteak/trn-node-docker-demo
 
@@ -76,9 +78,13 @@ Link: https://github.com/cloudsteak/trn-azure-commandline
 
 Link: https://github.com/cloudsteak/trn-azurestaticwebsite
 
-### 8. WebApp + SQL adatbázis (NodeJS 18)
+### 8. WebApp + SQL adatbázis
 
 Link: https://github.com/cloudsteak/trn-azure-webapp-sql
+
+### 9. webApp + NoSQL adatbázis
+
+Link: https://github.com/cloudsteak/trn-azure-webapp-nosql
 
 ### 9. Kubernetes példa, több felhőszolgáltatóhoz
 
