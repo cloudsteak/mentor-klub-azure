@@ -48,8 +48,6 @@ Link: https://github.com/cloudsteak/react-demo-n16
 
 Támogatott NodeJS verziók
 
-- Node 14 LTS
-- Node 16 LTS
 - Node 18 LTS
 - Node 20 LTS
 
@@ -59,8 +57,6 @@ Link: https://github.com/cloudsteak/trn-node-demo
 
 Támogatott NodeJS verziók
 
-- Node 14 LTS
-- Node 16 LTS
 - Node 18 LTS
 - Node 20 LTS
 
@@ -93,3 +89,7 @@ Link: https://github.com/cloudsteak/trn-k8s
 ### 11. ARM sablonok Azure (ARM Template)
 
 Link: https://github.com/cloudsteak/trn-azure-arm
+
+### 12. Egyedi képfájl használata Azure-ban (Vírtuális gép)
+
+Link: https://github.com/cloudsteak/cloud-custom-images
