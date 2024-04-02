@@ -93,3 +93,8 @@ Link: https://github.com/cloudsteak/trn-azure-arm
 ### 12. Egyedi képfájl használata Azure-ban (Vírtuális gép)
 
 Link: https://github.com/cloudsteak/cloud-custom-images
+
+
+### 13. Azure OpenAI alap példa
+
+Link: https://github.com/cloudsteak/trn-azure-ai
