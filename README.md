@@ -10,7 +10,7 @@ Ha a képzések során valamilyen nehézségbe ütközöl, az alábbi github fel
 
 https://github.com/cloudsteak/mentor-klub-cloud/issues
 
-## Hozzáférés igénylése Azure előfizetéshez
+<!-- ## Hozzáférés igénylése Azure előfizetéshez
 
 Több hetes képzések esetén lehetőség van az oktató Azure előfizetéséhez átmeneti jogosultságot igényelni. Ehhez a megadott linken meg kell adni az alábbi adatokat:
 
@@ -28,7 +28,7 @@ Link: https://mentor-access-manager.azurewebsites.net
 - Erőforrások létrehozásánál olyan nevet használj, amely esetén be tudom azonosítnai, hogy az hozzád tartozik.
 - Ha nincs szükséged egy erőforrásra, akkor állítsd le vagy inkább töröld le.
 - Csak annyi erőforrást használj, amennyire feltétlenül szükséged van.
-- Néhány naponta ellenőrizni fogom az erőforrásokat és ha sok vagy felesleges erőforrások vannak, azokat le fogom törölni.
+- Néhány naponta ellenőrizni fogom az erőforrásokat és ha sok vagy felesleges erőforrások vannak, azokat le fogom törölni. -->
 
 ## Meglévő segádanyagok az Azure témájú képzésekhez
 
