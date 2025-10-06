@@ -32,19 +32,25 @@ Link: https://mentor-access-manager.azurewebsites.net
 
 ## Meglévő segádanyagok az Azure témájú képzésekhez
 
-### 1. NodeJS14 alapú React demo
+Az alábbiakban összegyűjtöttem néhány olyan github repository linkjét, amelyek az Azure témájú képzésekhez kapcsolódnak. Ezek a megoldások különböző technológiákat és szolgáltatásokat mutatnak be, amelyek hasznosak lehetnek a tanulás során.
+
+### 1. Általános Azure Cloud tudástár
+
+Link: https://github.com/cloudsteak/trn-azure-common
+
+### 2. NodeJS14 alapú React demo
 
 Felhő szolgáltató független megoldás NodeJS14 alapon.
 
 Link: https://github.com/cloudsteak/react-demo-n14
 
-### 2. NodeJS16 alapú React demo
+### 3. NodeJS16 alapú React demo
 
 Felhő szolgáltató független megoldás NodeJS16 alapon.
 
 Link: https://github.com/cloudsteak/react-demo-n16
 
-### 3. NodeJS alapú webalkalmazás Azure-hoz
+### 4. NodeJS alapú webalkalmazás Azure-hoz
 
 Támogatott NodeJS verziók
 
@@ -53,7 +59,7 @@ Támogatott NodeJS verziók
 
 Link: https://github.com/cloudsteak/trn-node-demo
 
-### 4. NodeJS alapú webalkalmazás Azure-hoz (docker változat)
+### 5. NodeJS alapú webalkalmazás Azure-hoz (docker változat)
 
 Támogatott NodeJS verziók
 
@@ -62,39 +68,39 @@ Támogatott NodeJS verziók
 
 Link: https://github.com/cloudsteak/trn-node-docker-demo
 
-### 5. Példa repository Azure Pipeline alapú megoldásokhoz
+### 6. Példa repository Azure Pipeline alapú megoldásokhoz
 
 Link: https://github.com/cloudsteak/trn-azure-pipeline
 
-### 6. Parancssori eszközök Azure-hoz
+### 7. Parancssori eszközök Azure-hoz
 
 Link: https://github.com/cloudsteak/trn-azure-commandline
 
-### 7. Statikus weboldal
+### 8. Statikus weboldal
 
 Link: https://github.com/cloudsteak/trn-azurestaticwebsite
 
-### 8. WebApp + SQL adatbázis
+### 9. WebApp + SQL adatbázis
 
 Link: https://github.com/cloudsteak/trn-azure-webapp-sql
 
-### 9. webApp + NoSQL adatbázis
+### 10. webApp + NoSQL adatbázis
 
 Link: https://github.com/cloudsteak/trn-azure-webapp-nosql
 
-### 10. Kubernetes példa, több felhőszolgáltatóhoz
+### 11. Kubernetes példa, több felhőszolgáltatóhoz
 
 Link: https://github.com/cloudsteak/trn-k8s
 
-### 11. ARM sablonok Azure (ARM Template)
+### 12. ARM sablonok Azure (ARM Template)
 
 Link: https://github.com/cloudsteak/trn-azure-arm
 
-### 12. Egyedi képfájl használata Azure-ban (Vírtuális gép)
+### 13. Egyedi képfájl használata Azure-ban (Vírtuális gép)
 
 Link: https://github.com/cloudsteak/cloud-custom-images
 
 
-### 13. Azure OpenAI alap példa
+### 14. Azure OpenAI alap példa
 
 Link: https://github.com/cloudsteak/trn-azure-ai
